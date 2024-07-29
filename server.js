@@ -9,7 +9,7 @@ const app = express();
 const port = 3000; // You can change this port if needed
 
 // MongoDB connection string
-const uri = "mongodb+srv://preethitk03:Preethi26@bot.k3kn9ww.mongodb.net/char_app?retryWrites=true&w=majority";
+const uri = "PAST THE LINK";
 
 // Mongoose schema for chat history (optional)
 const chatHistorySchema = new mongoose.Schema({
@@ -30,7 +30,7 @@ app.use(cors()); // To allow cross-origin requests from your client
 app.use(bodyParser.json()); // For parsing JSON request bodies
 
 // Replace with your actual OpenAI API key (ensure proper access for this endpoint)
-const apiKey = 'sk-proj-AKn7tbYy6epoyGa8mJpZT3BlbkFJad4WzvlXi4erBKOdCvfY';
+const apiKey = 'ADD YOUR API KEY';
 
 const apiUrl = 'https://api.openai.com/v1/chat/completions';
 
