@@ -8,19 +8,19 @@ It utilizes the OpenAI GPT-3.5-turbo model to generate responses to user queries
 ## Requirements
 The application consists of the following components:
 
-### 1. Frontend
+## 1. Frontend
 - **Chat Interface**: A user-friendly chat interface designed using HTML, CSS, and JavaScript.
 - **Text Input**: A text input field for users to type their messages.
 - **Chat History**: A display area for chat history, showing both user messages and bot responses.
 
-### 2. Backend
+## 2. Backend
 - **Server Setup**: A basic server created using Node.js and Express.js to handle API requests.
 - **API Endpoint**: An endpoint to manage user messages and interact with the language model API.
 
-### 3. AI Integration
+## 3. AI Integration
 - **OpenAI API**: Integration with OpenAI's GPT-3.5 to process user messages and generate responses.
 
-### 4. Database
+## 4. Database
 - **MongoDB**: A simple MongoDB database to store chat history for later retrieval.
 
 ## Getting Started
