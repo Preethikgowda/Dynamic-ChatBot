@@ -3,7 +3,8 @@
 
 ## Project Overview
 This project is a simple Dynamic web application that integrates a chatbot using OpenAI's GPT-3.5 language model. The application consists of a Dynamic frontend chat interface where users can interact with the chatbot, and a backend server that handles user messages and communicates with the AI API.
-This is a JavaScript code that implements a  chatbot using the `document.addEventListener("DOMContentLoaded",function(e){})` event. The chatbot allows users to interact with it by sending messages and receiving responses. It utilizes the OpenAI GPT-3.5-turbo model to generate responses to user queries.
+This is a JavaScript code that implements a  chatbot using the `document.addEventListener("DOMContentLoaded",function(e){})` event.
+It utilizes the OpenAI GPT-3.5-turbo model to generate responses to user queries.
 ## Requirements
 The application consists of the following components:
 
